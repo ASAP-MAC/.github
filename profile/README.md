@@ -1,4 +1,4 @@
-![ASAP_logo](cropped-asap_logo_fullcolor.png)
+![MAC_logo](mac.png)
 
 # Introduction
 
